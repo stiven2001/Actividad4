@@ -36,7 +36,7 @@ Mi nombre se elimina de la lista de usuarios conectados en el servidor.
 
 Historia 5 👨‍💻
 
-Como administrador del sistema, quiero que el servidor gestione múltiples conexiones simultáneamente,para garantizar que todos los usuarios puedan chatear sin interrupciones.
+Como administrador del sistema, quiero que el servidor gestione múltiples conexiones simultáneamente,para garantizar que todos los usuarios puedan chatear sin interrupciones..
 
 Criterios de aceptación 📖:
 
